@@ -1,11 +1,11 @@
-package GUI.FizzGUI;
+package FizzGUI;
 
 import java.util.HashMap;
 import com.jme3.math.Vector2f;
 import com.jme3.scene.Node;
-import GUI.FizzGUI.components.AlignmentComponent;
-import GUI.FizzGUI.components.GUIComponent;
-import GUI.FizzGUI.components.GUIComponentType;
+import FizzGUI.components.AlignmentComponent;
+import FizzGUI.components.GUIComponent;
+import FizzGUI.components.GUIComponentType;
 
 /**
  * 

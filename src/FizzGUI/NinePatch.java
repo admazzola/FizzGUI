@@ -1,9 +1,9 @@
-package GUI.FizzGUI;
+package FizzGUI;
 
 import com.jme3.math.Vector2f;
 import com.jme3.texture.Texture;
-import GUI.FizzGUI.sprites.Sprite;
-import GUI.FizzGUI.sprites.TextureRegion;
+import FizzGUI.sprites.Sprite;
+import FizzGUI.sprites.TextureRegion;
 
 
 

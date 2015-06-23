@@ -1,4 +1,4 @@
-package GUI.FizzGUI.sprites;
+package FizzGUI.sprites;
 
 
 import com.jme3.material.Material;
@@ -17,7 +17,7 @@ import com.jme3.texture.Texture.MagFilter;
 import com.jme3.texture.Texture.MinFilter;
 import com.jme3.util.BufferUtils;
 import superquad.GameRoot;
-import GUI.FizzGUI.GUIElement;
+import FizzGUI.GUIElement;
 
 public class Sprite extends GUIElement{
 

@@ -1,11 +1,11 @@
-package GUI.FizzGUI.components;
+package FizzGUI.components;
 
 import com.jme3.math.Vector2f;
 import com.jme3.math.Vector3f;
 
 import superquad.GameRoot;
-import GUI.FizzGUI.GUIElement;
-import GUI.FizzGUI.positioning.PositionAnchor;
+import FizzGUI.GUIElement;
+import FizzGUI.positioning.PositionAnchor;
 
 public class AbsoluteAlignmentComponent extends AlignmentComponent {
 

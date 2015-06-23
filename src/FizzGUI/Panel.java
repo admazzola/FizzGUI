@@ -1,8 +1,8 @@
-package GUI.FizzGUI;
+package FizzGUI;
 
 import com.jme3.math.Vector2f;
 import superquad.GameRoot;
-import GUI.FizzGUI.components.AlignmentComponent;
+import FizzGUI.components.AlignmentComponent;
 
 public class Panel extends GUIElement{
 

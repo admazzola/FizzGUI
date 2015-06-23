@@ -1,4 +1,4 @@
-package superquad.GameStates.FrontMenu;
+package FizzGUI.samples;
 
 
 import com.jme3.audio.AudioNode;
@@ -6,17 +6,17 @@ import com.jme3.font.BitmapFont;
 import com.jme3.math.Vector2f;
 
 import superquad.GameRoot;
-import GUI.FizzGUI.Button;
-import GUI.FizzGUI.GUIElement;
-import GUI.FizzGUI.MenuBase;
-import GUI.FizzGUI.NinePatch;
-import GUI.FizzGUI.Panel;
-import GUI.FizzGUI.StaticText;
-import GUI.FizzGUI.components.AbsoluteAlignmentComponent;
-import GUI.FizzGUI.components.ChildLayoutComponent;
-import GUI.FizzGUI.components.ClickEventComponent;
-import GUI.FizzGUI.components.FloatingAlignmentComponent;
-import GUI.FizzGUI.positioning.PositionAnchor; 
+import FizzGUI.Button;
+import FizzGUI.GUIElement;
+import FizzGUI.MenuBase;
+import FizzGUI.NinePatch;
+import FizzGUI.Panel;
+import FizzGUI.StaticText;
+import FizzGUI.components.AbsoluteAlignmentComponent;
+import FizzGUI.components.ChildLayoutComponent;
+import FizzGUI.components.ClickEventComponent;
+import FizzGUI.components.FloatingAlignmentComponent;
+import FizzGUI.positioning.PositionAnchor; 
 
 public class FrontMenuGUI extends MenuBase{
 

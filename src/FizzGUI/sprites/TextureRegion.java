@@ -1,4 +1,4 @@
-package GUI.FizzGUI.sprites;
+package FizzGUI.sprites;
 
 public class TextureRegion
 {

@@ -1,4 +1,4 @@
-package GUI.FizzGUI.sprites;
+package FizzGUI.sprites;
 
 import java.io.File;
 import java.io.InputStream;

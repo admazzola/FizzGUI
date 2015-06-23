@@ -1,4 +1,4 @@
-package GUI.FizzGUI;
+package FizzGUI;
 
 import com.jme3.font.BitmapFont;
 import com.jme3.math.Vector2f;

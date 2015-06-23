@@ -1,9 +1,9 @@
-package GUI.FizzGUI;
+package FizzGUI;
 
 import com.jme3.math.Vector2f;
 
 import superquad.GameRoot;
-import GUI.FizzGUI.sprites.Sprite;
+import FizzGUI.sprites.Sprite;
 
 	public class Icon extends GUIElement{
 		

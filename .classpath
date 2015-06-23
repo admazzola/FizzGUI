@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-blender.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-core.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-desktop.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-effects.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-jbullet.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-jogg.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-lwjgl.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-networking.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-openal-soft-natives-android.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-plugins.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-terrain.jar"/>
+	<classpathentry kind="lib" path="/SuperQuadRacer/lib/jme/jME3-testdata.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
