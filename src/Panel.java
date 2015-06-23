@@ -2,7 +2,7 @@ package GUI.MazzGUI;
 
 import com.jme3.math.Vector2f;
 import superquad.GameRoot;
-import GUI.MazzGUI.components.AlignmentComponent;
+import GUI.FizzGUI.components.AlignmentComponent;
 
 public class Panel extends GUIElement{
 

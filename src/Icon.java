@@ -3,7 +3,7 @@ package GUI.MazzGUI;
 import com.jme3.math.Vector2f;
 
 import superquad.GameRoot;
-import GUI.MazzGUI.sprites.Sprite;
+import GUI.FizzGUI.sprites.Sprite;
 
 	public class Icon extends GUIElement{
 		

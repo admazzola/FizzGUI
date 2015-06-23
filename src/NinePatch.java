@@ -2,8 +2,8 @@ package GUI.MazzGUI;
 
 import com.jme3.math.Vector2f;
 import com.jme3.texture.Texture;
-import GUI.MazzGUI.sprites.Sprite;
-import GUI.MazzGUI.sprites.TextureRegion;
+import GUI.FizzGUI.sprites.Sprite;
+import GUI.FizzGUI.sprites.TextureRegion;
 
 
 

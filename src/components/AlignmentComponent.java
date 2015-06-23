@@ -2,7 +2,7 @@ package GUI.MazzGUI.components;
 
 import com.jme3.math.Vector2f;
 import com.jme3.math.Vector3f;
-import GUI.MazzGUI.GUIElement;
+import GUI.FizzGUI.GUIElement;
 
 public class AlignmentComponent extends GUIComponent{
 

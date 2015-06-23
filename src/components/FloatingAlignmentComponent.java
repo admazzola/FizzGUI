@@ -3,8 +3,8 @@ package GUI.MazzGUI.components;
 import com.jme3.math.Vector2f;
 import com.jme3.scene.Spatial;
 import superquad.GameRoot;
-import GUI.MazzGUI.GUIElement;
-import GUI.MazzGUI.positioning.PositionAnchor;
+import GUI.FizzGUI.GUIElement;
+import GUI.FizzGUI.positioning.PositionAnchor;
 
 public class FloatingAlignmentComponent extends AlignmentComponent {
 

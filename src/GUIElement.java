@@ -3,9 +3,9 @@ package GUI.MazzGUI;
 import java.util.HashMap;
 import com.jme3.math.Vector2f;
 import com.jme3.scene.Node;
-import GUI.MazzGUI.components.AlignmentComponent;
-import GUI.MazzGUI.components.GUIComponent;
-import GUI.MazzGUI.components.GUIComponentType;
+import GUI.FizzGUI.components.AlignmentComponent;
+import GUI.FizzGUI.components.GUIComponent;
+import GUI.FizzGUI.components.GUIComponentType;
 
 /**
  * 

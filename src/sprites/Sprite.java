@@ -17,7 +17,7 @@ import com.jme3.texture.Texture.MagFilter;
 import com.jme3.texture.Texture.MinFilter;
 import com.jme3.util.BufferUtils;
 import superquad.GameRoot;
-import GUI.MazzGUI.GUIElement;
+import GUI.FizzGUI.GUIElement;
 
 public class Sprite extends GUIElement{
 

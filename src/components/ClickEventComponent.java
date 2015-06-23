@@ -5,8 +5,8 @@ import com.jme3.input.event.MouseButtonEvent;
 import com.jme3.math.Vector2f;
 import com.jme3.math.Vector3f;
 import superquad.GameRoot;
-import GUI.MazzGUI.GUIElement;
-import GUI.MazzGUI.GUIEventListener;
+import GUI.FizzGUI.GUIElement;
+import GUI.FizzGUI.GUIEventListener;
 import superquad.Peripherals.MouseButton;
 
 public class ClickEventComponent extends EventComponent {
