@@ -1,4 +1,4 @@
-package GUI.MazzGUI.components;
+package GUI.FizzGUI.components;
 
 public class GUIComponent {
 

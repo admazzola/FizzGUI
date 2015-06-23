@@ -1,4 +1,4 @@
-package GUI.MazzGUI.positioning;
+package GUI.FizzGUI.positioning;
 
 public enum PositionAnchor {
 	NONE(0,0),

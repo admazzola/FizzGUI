@@ -1,4 +1,4 @@
-package GUI.MazzGUI.sprites;
+package GUI.FizzGUI.sprites;
 
 
 import com.jme3.material.Material;

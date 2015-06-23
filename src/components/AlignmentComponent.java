@@ -1,4 +1,4 @@
-package GUI.MazzGUI.components;
+package GUI.FizzGUI.components;
 
 import com.jme3.math.Vector2f;
 import com.jme3.math.Vector3f;

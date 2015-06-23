@@ -1,4 +1,4 @@
-package GUI.MazzGUI;
+package GUI.FizzGUI;
 
 import com.jme3.asset.AssetManager;
 import com.jme3.font.BitmapFont;

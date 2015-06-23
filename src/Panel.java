@@ -1,4 +1,4 @@
-package GUI.MazzGUI;
+package GUI.FizzGUI;
 
 import com.jme3.math.Vector2f;
 import superquad.GameRoot;

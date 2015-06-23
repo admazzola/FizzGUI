@@ -1,4 +1,4 @@
-package GUI.MazzGUI;
+package GUI.FizzGUI;
 
 public interface GUIEventListener {
 
